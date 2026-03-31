@@ -1,0 +1,11 @@
+.env
+*.env
+.env.*
+node_modules/
+*.csv
+*.json
+secrets/
+config/credentials*
+*.token
+.DS_Store
+publicar.bat
