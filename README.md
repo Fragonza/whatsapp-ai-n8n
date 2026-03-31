@@ -23,4 +23,4 @@ When a customer uses trigger words like "speak to someone",
 ## Screenshots
 See /screenshots folder
 ## Available on Fiverr
-[Link coming soon]
+[Hire me on Fiverr](https://www.fiverr.com/s/rE4493x)
